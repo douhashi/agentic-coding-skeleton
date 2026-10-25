@@ -1,2 +1,2 @@
-# agentic-coding-skelton
-Agentic coding skelton
+# agentic-coding-skeleton
+Agentic coding skeleton
